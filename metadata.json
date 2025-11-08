@@ -1,0 +1,5 @@
+{
+  "name": "WebRádio — SIS",
+  "description": "Modern web radio player with stream selection and WhatsApp song requests.",
+  "requestFramePermissions": []
+}
